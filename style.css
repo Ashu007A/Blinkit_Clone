@@ -186,3 +186,7 @@ footer {
     padding: 20px;
     text-align: center;
 }
+
+.section-2::-webkit-scrollbar, .section-list::-webkit-scrollbar {
+    display: none;
+}
